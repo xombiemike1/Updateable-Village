@@ -1,0 +1,1 @@
+summon minecraft:villager ~ ~ ~ {CustomNameVisible:1b,PersistenceRequired:1b,NoAI:1b,Tags:["Mayor"],CustomName:'{"text":"Mayor","color":"green"}',VillagerData:{profession:"minecraft:librarian"}}
