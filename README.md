@@ -18,4 +18,4 @@ Spawning the village base point, which will create the basic village area from a
 Showing a player perspective of completing the first quest and seeing the resulting new structure and NPC.
 
 Development:
-Xombiemike (Mike McDaniel) Just me for now. As this is my first datapack project, I would love to bring in someone with more experience in writing command code, so let me know if you would be interested in assisting. I already have the first NPC dialogue ready with their quest complete with the exception of placing the first structure addition and second NPC.
+Xombiemike. Just me for now. As this is my first datapack project, I would love to bring in someone with more experience in writing command code, so let me know if you would be interested in assisting. I already have the first NPC dialogue ready with their quest complete with the exception of placing the first structure addition and second NPC.
